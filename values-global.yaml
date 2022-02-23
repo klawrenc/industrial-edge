@@ -18,5 +18,5 @@ global:
     hostname: github.com
     account: klawrenc
     username: klawrenc
-    email:klawrenc@redhat.com 
+    email: klawrenc@redhat.com 
     dev_revision: main
