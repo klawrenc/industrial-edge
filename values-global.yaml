@@ -19,4 +19,4 @@ global:
     account: klawrenc
     username: klawrenc
     email: klawrenc@redhat.com 
-    dev_revision: main
+    dev_revision: klawrenc/odfexpansion
