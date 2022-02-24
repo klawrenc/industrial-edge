@@ -33,6 +33,11 @@ clusterGroup:
     source: community-operators
     csv: opendatahub-operator.v1.1.0
 
+- name: ocs-operator
+    namespace: openshift-storage
+    channel: stable-4.8
+    csv: ocs-operator.v4.8.7
+    
   - name: openshift-pipelines-operator-rh
     csv: redhat-openshift-pipelines.v1.5.2
 
