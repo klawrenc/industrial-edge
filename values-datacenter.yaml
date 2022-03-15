@@ -14,6 +14,7 @@ clusterGroup:
   - manuela-data-lake-central-s3-store
   - manuela-data-lake-central-kafka-cluster
   - staging
+  - openshift-storage
 
   operatorgroupExcludes:
   - manuela-ml-workspace
