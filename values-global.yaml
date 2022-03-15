@@ -10,13 +10,13 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: PLAINTEXT
+    account: klawrenc
     hostname: quay.io
     type: quay
 
   git:
     hostname: github.com
-    account: PLAINTEXT
-    username: PLAINTEXT
-    email: SOMEWHERE@EXAMPLE.COM
-    dev_revision: main
+    account: klawrenc
+    username: klawrenc
+    email: klawrenc@redhat.com
+    dev_revision: klawrenc/odfexpansion 
